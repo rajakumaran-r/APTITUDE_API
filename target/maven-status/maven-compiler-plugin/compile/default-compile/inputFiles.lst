@@ -1,0 +1,15 @@
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/ApptitudeapiApplication.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/Controller/AgeController.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/Controller/CalendarController.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/Controller/ProfitAndLossController.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/Repository/AgeRepository.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/Repository/CalendarRepository.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/Repository/MixtureAndAlligationRepository.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/Repository/ProfitAndLossRepository.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/Service/AgeService.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/Service/CalendarService.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/Service/ProfitAndLossService.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/model/Age.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/model/Calendar.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/model/MixtureAndAlligation.java
+/Users/thirukumaran/Downloads/Apptitudeapi/src/main/java/com/example/Apptitudeapi/model/ProfitAndLoss.java
